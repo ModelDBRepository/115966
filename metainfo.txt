@@ -1,0 +1,25 @@
+Title: A sample program for the internal clock model
+Contributor: Tadashi Yamazaki(yamazaki)
+Free Keywords: 
+  random recurrent inhibitory network
+   cerebellum
+   granular layer
+Comment: 
+  This is our re-implementation of the cerebellar model presented in the
+  following paper:
+  
+      Tadashi Yamazaki and Shigeru Tanaka (2005),
+      Neural Modeling of an Internal Clock.
+      Neural Computation 17(5) 1032--1058.
+  
+  One can set parameters arbitrarily and simulate the network dynamics.
+  
+  Please notice that this program is independent of the original version
+  developed by Yamazaki and Tanaka (2005).
+  
+ID: 943
+Last Modified Date: Apr 14, 2008 09:51:11
+Creation Date: Apr 8, 2008 10:05:50
+Model type: Other
+Creator: Takeru Honda and Tadashi Yamazaki
+URL for Detail: http://platform.cerebellum.neuroinf.jp/modules/xoonips/detail.php?id=943
